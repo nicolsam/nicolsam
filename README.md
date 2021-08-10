@@ -1,8 +1,8 @@
 ### Hey! 👋
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula">
+  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
+  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula">
   
 <!-- [![Nicolas Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true)](https://github.com/nicolsam/github-readme-stats) -->
 
