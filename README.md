@@ -10,19 +10,19 @@
 
 <div>
   
-  <a href="https://wa.link/jcb90e" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/n%C3%ADcolas-samuel-b025121a5/" target="_blank">
+  <a href="https://www.linkedin.com/in/n%C3%ADcolas-samuel-b025121a5/" target="_blank" id="linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Olá Nicolas!" target="_blank">
+  <a href="https://wa.link/jcb90e" target="_blank" id="whatsapp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+ 
+  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Olá Nicolas!" target="_blank" id="gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://steamcommunity.com/id/Sublevado051" target="_blank"> 
+  <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   </a>
 </div>
