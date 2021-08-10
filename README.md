@@ -1,14 +1,38 @@
 ### Hey! 👋
 
 <div>
-  <img height="260em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
-  <img height="260em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula">
   
-<!-- [![Nicolas Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true)](https://github.com/nicolsam/github-readme-stats) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula)](https://github.com/nicolsam/github-readme-stats) -->
+  <img height="220em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
+  
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula">
   
 </div>
+
+<div>
+  
+  <a href="https://wa.link/jcb90e" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/n%C3%ADcolas-samuel-b025121a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Olá Nicolas!" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="https://steamcommunity.com/id/Sublevado051" target="_blank"> 
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+  
+</div>
+
+
+
+
+
+
 <!--
 **nicolsam/nicolsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
