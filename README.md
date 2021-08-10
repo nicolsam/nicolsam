@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hey! 👋
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula">
+  
+<!-- [![Nicolas Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true)](https://github.com/nicolsam/github-readme-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&theme=dracula)](https://github.com/nicolsam/github-readme-stats) -->
+  
+</div>
 <!--
 **nicolsam/nicolsam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +20,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
