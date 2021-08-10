@@ -27,9 +27,7 @@
   </a>
 </div>
 
-<div>
-  ![Snake animation](https://github.com/rafaballerini/nicolsam/blob/output/github-contribution-grid-snake.svg)
-</div>
+  ![Snake animation](https://github.com/nicolsam/nicolsam/blob/output/github-contribution-grid-snake.svg)
 
 
 
