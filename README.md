@@ -8,6 +8,8 @@
   
 </div>
 
+</br>
+
 <div>
   
   <a href="https://www.linkedin.com/in/n%C3%ADcolas-samuel-b025121a5/" target="_blank" id="linkedin">
@@ -27,7 +29,7 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/nicolsam/nicolsam/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/nicolsam/nicolsam/blob/output/github-contribution-grid-snake.svg)
 
 
 
