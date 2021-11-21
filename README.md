@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
+<!--   <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
  ![Snake animation](https://github.com/nicolsam/nicolsam/blob/output/github-contribution-grid-snake.svg)
