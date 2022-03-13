@@ -1,5 +1,11 @@
 ### Hey! 👋
 
+<!-- <style>
+  .email-down {
+    font-size: 8px;
+  }
+</style> -->
+
 <div>
   
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
@@ -20,9 +26,14 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
  
-  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Olá Nicolas!" target="_blank" id="gmail">
+  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Hello Nicolas!" target="_blank" id="gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
+  <p class='email-down'>
+    My email, in case the button doesn't work for you: </br>
+    <b>contato.nicolassamuel@gmail.com</b>
+  </p>
   
 <!--   <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
     <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
