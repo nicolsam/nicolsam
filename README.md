@@ -1,5 +1,32 @@
 # Hey! 👋
 
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/nicolveras/" target="_blank" id="linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://wa.link/jcb90e" target="_blank" id="whatsapp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+ 
+  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Hello Nicolas!" target="_blank" id="gmail">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <p class='email-down'>
+    Send me an e-mail with</br>
+    <b>contato.nicolassamuel@gmail.com</b>
+  </p>
+  
+<!--   <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  </a> -->
+
+</div>
+
+#
+
 <div>
   
   <img height="220em" src="https://github-readme-stats.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
@@ -21,31 +48,6 @@
 | <img height="30px" width="100px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |  |  |
 | <img height="30px" width="100px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |  |  |
   
-</div>
-
-## SOCIAL
-
-<div>  
-  <a href="https://www.linkedin.com/in/nicolveras/" target="_blank" id="linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="https://wa.link/jcb90e" target="_blank" id="whatsapp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
- 
-  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Hello Nicolas!" target="_blank" id="gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <p class='email-down'>
-    My email, in case the button doesn't work for you: </br>
-    <b>contato.nicolassamuel@gmail.com</b>
-  </p>
-  
-<!--   <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a> -->
 </div>
 
 #
