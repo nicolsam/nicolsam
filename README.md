@@ -27,7 +27,7 @@
 
 #
 
-<div align="center">
+<div>
   
 <!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true"> -->
 
