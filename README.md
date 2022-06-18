@@ -27,11 +27,17 @@
 
 #
 
-<div>
+<div align="center">
   
-  <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true">
+<!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true"> -->
+
+  <img height="220em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
   
-  <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api/top-langs/?username=nicolsam&theme=dracula">
+<!--   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
+  
+<!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api/top-langs/?username=nicolsam&theme=react"> -->
+  
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&layout=compact&langs_count=5&theme=react&hide=hack,java">
   
 </div>
 
@@ -57,7 +63,6 @@
 | <img height="30px" width="100px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />                 |                                                                                                                                                             | <img height="30px" width="100px" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> |
 | <img height="30px" width="100px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> |                                                                                                                                                             |                                                                                                                                             |
 | <img height="30px" width="100px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />                   |                                                                                                                                                             |                                                                                                                                             |
-
 
 </div>
 
