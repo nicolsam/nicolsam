@@ -5,17 +5,13 @@
   <a href="https://www.linkedin.com/in/nicolveras/" target="_blank" id="linkedin">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
-  <a href="https://wa.link/jcb90e" target="_blank" id="whatsapp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
  
   <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Hello Nicolas!" target="_blank" id="gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <p class='email-down'>
-    Send me an e-mail with</br>
+    Send me an e-mail to</br>
     <b>contato.nicolassamuel@gmail.com</b>
   </p>
 
