@@ -31,13 +31,13 @@
   
 <!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true"> -->
 
-  <img height="220em" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
+  <img height="220em" style="max-width:50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
   
 <!--   [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react)](https://git.io/awesome-stats-card) -->
   
 <!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api/top-langs/?username=nicolsam&theme=react"> -->
   
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&layout=compact&langs_count=5&theme=react&hide=hack,java">
+  <img height="220em" style="max-width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&layout=compact&langs_count=5&theme=react&hide=hack,java">
   
 </div>
 
