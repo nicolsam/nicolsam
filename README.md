@@ -55,6 +55,9 @@
 
 </div>
 
+[![nicolsam's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nicolsam)](https://github.com/anuraghazra/github-readme-stats)
+
+
 #
 
  ![Snake animation](https://github.com/nicolsam/nicolsam/blob/output/github-contribution-grid-snake.svg)
