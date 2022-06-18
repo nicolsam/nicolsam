@@ -27,17 +27,12 @@
 
 #
 
-<div>
-  
-<!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api?username=nicolsam&count_private=true&theme=dracula&show_icons=true"> -->
   <a href="https://github.com/nicolsam/nicolsam">
     <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
   </a>
-<!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api/top-langs/?username=nicolsam&theme=react"> -->
   <a href="https://github.com/nicolsam/nicolsam">
      <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&layout=compact&langs_count=5&theme=react&hide=hack,java">
   </a>
-</div>
 
 #
 
