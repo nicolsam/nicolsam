@@ -37,7 +37,7 @@
   
 <!--   <img height="220em" src="https://github-readme-stats-eight-green.vercel.app/api/top-langs/?username=nicolsam&theme=react"> -->
   
-  <img height="220em" style="max-width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&layout=compact&langs_count=5&theme=react&hide=hack,java">
+  <img height="220em" style="max-width:50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=5&theme=react&hide=hack,java">
   
 </div>
 
