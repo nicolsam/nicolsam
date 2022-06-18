@@ -18,21 +18,17 @@
     Send me an e-mail with</br>
     <b>contato.nicolassamuel@gmail.com</b>
   </p>
-  
-<!--   <a href="https://steamcommunity.com/id/Sublevado051" target="_blank" id="steam"> 
-    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  </a> -->
 
 </div>
 
 #
 
-  <a href="https://github.com/nicolsam/nicolsam">
-    <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
-  </a>
-  <a href="https://github.com/nicolsam/nicolsam">
-     <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&layout=compact&langs_count=5&theme=react&hide=hack,java">
-  </a>
+ <a href="https://github.com/nicolsam/nicolsam">
+  <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
+</a>
+<a href="https://github.com/nicolsam/nicolsam">
+   <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=4&theme=react&hide=hack,java,scss">
+</a>
 
 #
 
