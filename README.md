@@ -11,7 +11,7 @@
   </a>
   
   <p class='email-down'>
-    Send me an e-mail to</br>
+    Send me an e-mail</br>
     <b>contato.nicolassamuel@gmail.com</b>
   </p>
 
