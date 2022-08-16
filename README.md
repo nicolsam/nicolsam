@@ -10,6 +10,10 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
+  <a href="https://www.nicolsam.space/" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000.svg?style=for-the-badge" />
+  </a>
+  
   <p class='email-down'>
     Send me an e-mail</br>
     <b>contato.nicolassamuel@gmail.com</b>
