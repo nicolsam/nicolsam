@@ -1,4 +1,4 @@
-# Hey! 👋 I'm a Frontend Developer. Nowadays I'm studying Frontend Development with React Js and acting as a Freelancer! 
+# Hey! 👋 I'm a Full Stack Developer. 
 
 <div align="center">
 
