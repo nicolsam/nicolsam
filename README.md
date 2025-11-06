@@ -1,4 +1,4 @@
-# Hey! 👋 I'm a Junior FullStack Developer. 
+# Hey! 👋 I'm a Web Developer. 
 
 <div align="center">
 
