@@ -28,11 +28,11 @@
 
 #
 
- <a href="https://github.com/nicolsam/nicolsam">
+ <a href="https://github.com/nicolsam">
   <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
 </a>
-<a href="https://github.com/nicolsam/nicolsam">
-   <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=4&theme=react&hide=hack,java,scss">
+<a href="https://github.com/nicolsam">
+   <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=5&theme=react&hide=hack,java,BLADE">
 </a>
 
 #
