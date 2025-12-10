@@ -1,4 +1,4 @@
-# Hey! 👋 I'm a Full Stack Developer. 
+# Hey! 👋 I'm a Frontend Developer. 
 
 <div align="center">
 
