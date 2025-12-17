@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
  
-  <a href="mailto:contato.nicolassamuel@gmail.com?subject=Re:Hello Nicolas!" target="_blank" id="gmail">
+  <a href="mailto:contato@nicolsam.com.br?subject=Re:Olá Nicolas!" target="_blank" id="gmail">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -21,7 +21,7 @@
   -->
   
   <p class='email-down'>
-    <b>contato.nicolassamuel@gmail.com</b>
+    <b>contato@nicolsam.com.br</b>
   </p>
 
 </div>
