@@ -1,7 +1,20 @@
 # Hey! 👋 I'm a Frontend Developer. 
 
 <div align="center">
-
+  
+  [![Email][email-shield]][email-url]
+  [![LinkedIn][linkedin-shield]][linkedin-url]
+  [![Behance][behance-shield]][behance-url]
+  
+  <!-- MARKDOWN LINKS & IMAGES -->
+  [email-shield]: https://img.shields.io/badge/-contato%40nicolsam.com.br-white?style=for-the-badge&logo=gmail&logoColor=#ee4236
+  [email-url]: mailto:contato@nicolsam.com.br?subject=Re:Olá!
+  [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=linkedin-white&colorB=0078b5
+  [linkedin-url]: https://www.linkedin.com/in/nicolas-samuel-veras/
+  [behance-shield]: https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&colorB=0959ff
+  [behance-url]: https://www.behance.net/nicolsam
+  
+  <!--
   <a href="https://www.behance.net/nicolsam" target="_blank" id="linkedin">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" />
   </a>
@@ -14,15 +27,15 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!--
   <a href="https://www.nicolsam.space/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000.svg?style=for-the-badge" />
   </a>
-  -->
   
   <p class='email-down'>
     <b>contato@nicolsam.com.br</b>
   </p>
+
+  -->
 
 </div>
 
