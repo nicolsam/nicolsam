@@ -1,7 +1,20 @@
-# Hey! 👋 I'm a Frontend Developer. 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:1557eb,100:ffff13&text=Nicolas%20Samuel&textBg=false&animation=fadeIn&reversal=false&fontAlignY=35&fontSize=42&fontColor=ffffff" />
+
+<h1 align="center">
+  Hello, World! Nicolas por aqui 👋
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com/?color=FF5C00&size=28&center=true&vCenter=true&width=1000&lines=npm+start+Nícolas+Samuel;Gosto+de+Tecnologia+e+Games;Sempre+aprendendo+algo+novo;Boas+vindas+por+aqui!"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <div align="center">
-  
+
   [![Email][email-shield]][email-url]
   [![LinkedIn][linkedin-shield]][linkedin-url]
   [![Behance][behance-shield]][behance-url]
@@ -43,12 +56,14 @@
 
  <a href="https://github.com/nicolsam">
   <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
-</a>
-<a href="https://github.com/nicolsam">
+ </a>
+<!-- <a href="https://github.com/nicolsam">
    <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=5&theme=react&hide=hack,java,BLADE">
-</a>
-
-#
+</a> -->
+<!-- Streak -->
+ <a href="https://github.com/nicolsam">
+  <img align="center" src="https://streak-stats.demolab.com?user=nicolsam&theme=blueberry-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly">
+ </a>
 
 <div>
 
@@ -60,6 +75,8 @@
 | <img height="30px" width="100px" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />  | <img height="30px" width="100px" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" /> |  |
 | <img height="30px" width="100px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |  |  |
 | <img height="30px" width="100px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> |  |  | -->
+
+<br>
 
 |                            Skills                            |                           Learning                           |                        Want to learn                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -73,6 +90,13 @@
 | <img height="30px" width="150px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> |                                                              |                                                              |
 | <img height="30px" width="100px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> |                                                              |                                                              |
 
+
+</div>
+
+<!-- Activity Graph -->
+<div align="center">
+
+[![nicolsam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolsam&radius=16&theme=tokyo-night&area=true&hide_border=true&custom_title=Gráfico%20de%20contribuições%20de%20Nícolas%20Samuel)](https://github.com/gsabreudev)
 
 </div>
 
@@ -104,3 +128,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1557eb,100:ffff13&section=footer" />
