@@ -65,8 +65,6 @@
   <img align="center" src="https://streak-stats.demolab.com?user=nicolsam&theme=blueberry-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly">
  </a>
 
-<div>
-
 <!-- | Skills | Learning | Want to learn |
 |:---:|:---:|:---:|
 | <img height="30px" width="100px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> | <img height="30px" width="100px" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> | <img height="30px" width="130px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" /> |
