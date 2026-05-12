@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 Estátisticas do Github
+## 📊 Estatísticas do Github
 
 <!-- Activity Graph -->
 <div align="center">
