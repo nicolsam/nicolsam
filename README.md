@@ -52,11 +52,11 @@
 
 </div>
 
-#
+<div align="center">
 
- <a href="https://github.com/nicolsam">
+ <!--<a href="https://github.com/nicolsam">
   <img height="220em" align="center" src="https://awesome-github-stats.azurewebsites.net/user-stats/nicolsam?cardType=github&theme=react">
- </a>
+ </a> -->
 <!-- <a href="https://github.com/nicolsam">
    <img height="220em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolsam&langs_count=5&theme=react&hide=hack,java,BLADE">
 </a> -->
@@ -128,5 +128,43 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -->
+
+## 🛠️ Projetos em Destaque
+
+### [Alfabetiza — Plataforma de Acompanhamento de Alfabetização](https://github.com/nicolsam/Alfabetiza)
+> Aplicação web para acompanhar escolas, turmas, estudantes, níveis de leitura, histórico de evolução e dados administrativos.
+
+- Registro e acompanhamento de escolas, turmas, alunos e professores
+- Controle de níveis de leitura e histórico de evolução dos estudantes
+- Estrutura administrativa com autenticação, auditoria e sessões de usuários
+- Documentação bilíngue com suporte a **Português** e **Inglês**
+- Testes unitários e end-to-end com **Vitest** e **Playwright**
+- **Stack:** Next.js · React.js · TypeScript · Prisma · PostgreSQL · next-intl · Vitest · Playwright
+
+---
+
+### [5W2H Planner — Gestão de Planos de Ação](https://github.com/nicolsam/5W2H-PLANNER)
+> Sistema SaaS para gerenciamento de planos de ação com base na metodologia **5W2H**.
+
+- Backend em **Laravel** com API estruturada e frontend em **React + TypeScript**
+- Criação e acompanhamento de metas, ações, etapas, prazos, custos e responsáveis
+- Dashboards interativos para visualizar o progresso dos planos de ação
+- Gestão de empresas, áreas, equipes e status das atividades
+- Ambiente de desenvolvimento containerizado com **Docker**
+- **Stack:** Laravel · PHP · MySQL · React.js · TypeScript · Vite · TailwindCSS · Chart.js · Docker
+
+---
+
+### [Contdomínio — Landing Page Institucional](https://github.com/ns-works/contdominio-landingpage)
+> Landing page responsiva e moderna desenvolvida para uma empresa de administração de condomínios e assessoria contábil.
+
+- Interface institucional com seções de apresentação, serviços, parceiros e depoimentos
+- Layout responsivo com foco em experiência do usuário e performance
+- Menu mobile animado, scroll suave e navbar dinâmica
+- Carrosséis interativos com suporte a gestos em dispositivos móveis
+- Estilização híbrida com **SASS** e **TailwindCSS**
+- **Stack:** HTML5 · JavaScript · SASS · TailwindCSS · Splide.js
+
+---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1557eb,100:ffff13&section=footer" />
