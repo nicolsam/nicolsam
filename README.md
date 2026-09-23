@@ -3,6 +3,9 @@
 <!--👨🏻‍💻 Nícolas Samuel
 `Desenvolvedor Full Stack`
 -->
+<p align="center">
+  <img src="animation.gif" width="500" height="600" alt="animation.gif">
+</p>
 
 <div align="center">
 
@@ -20,6 +23,7 @@
 
 </div>
 
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
@@ -30,8 +34,8 @@
 </p>
 
 
-
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- --- -->
 
 ## 🚀 Linguagens e Tecnologias
 
@@ -71,7 +75,8 @@
   <img height="32" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" /> <img height="32" alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=000000" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- --- -->
 
 ## 📊 Estatísticas do Github
 
@@ -96,8 +101,9 @@
 <!--
  ![Snake animation](https://github.com/nicolsam/nicolsam/blob/output/github-contribution-grid-snake.svg)
  -->
-
----
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- --- -->
 
 ## 🛠️ Projetos em Destaque
 
@@ -111,7 +117,8 @@
 - Testes unitários e end-to-end com **Vitest** e **Playwright**
 - **Stack:** Next.js · React.js · TypeScript · Prisma · PostgreSQL · next-intl · Vitest · Playwright
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- --- -->
 
 ### [5W2H Planner — Gestão de Planos de Ação](https://github.com/nicolsam/5W2H-PLANNER)
 > Sistema SaaS para gerenciamento de planos de ação com base na metodologia **5W2H**.
@@ -123,7 +130,8 @@
 - Ambiente de desenvolvimento containerizado com **Docker**
 - **Stack:** Laravel · PHP · MySQL · React.js · TypeScript · Vite · TailwindCSS · Chart.js · Docker
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- --- -->
 
 ### [Contdomínio — Landing Page Institucional](https://github.com/ns-works/contdominio-landingpage)
 > Landing page responsiva e moderna desenvolvida para uma empresa de administração de condomínios e assessoria contábil.
@@ -135,6 +143,7 @@
 - Estilização híbrida com **SASS** e **TailwindCSS**
 - **Stack:** HTML5 · JavaScript · SASS · TailwindCSS · Splide.js
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- --- -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:1557eb,100:ffff13&section=footer" />
